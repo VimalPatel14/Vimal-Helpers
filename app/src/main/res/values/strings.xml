@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">App Helper</string>
+
+    <string-array name="action_list">
+        <item>Bitmap</item>
+        <item>Ovals</item>
+        <item>Select Corners</item>
+        <item>Picasso</item>
+        <item>Color</item>
+        <item>Background</item>
+    </string-array>
+
+    <string name="btn_dialog_google_play">Show dialog (Google Play)</string>
+    <string name="btn_snackbar_google_play">Show snackbar (Google Play)</string>
+    <string name="btn_notification_google_play">Show notification (Google Play)</string>
+
+    <string name="btn_check_google_play">Check From(Google Play)</string>
+</resources>
