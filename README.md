@@ -23,35 +23,37 @@ Step 2. Add the dependency
 	
 ### Extensive functions:
 
-	
-	
+<details><summary>
 <a href="https://github.com/VimalPatel14/Vimal-Helpers/tree/master/Helpers/src/main/java/com/vimal/helpers/appupdate">
 App Update
 </a>
-</li>
-<li>
-	
-<li>
+</summary></details>
+
+<details><summary>
 <a href="https://github.com/VimalPatel14/Vimal-Helpers/tree/master/Helpers/src/main/java/com/vimal/helpers/customgallery">
 Custom Gallery
 </a>
-</li>
-<li>
+</summary></details>
+
+<details><summary>
 <a href="https://github.com/VimalPatel14/Vimal-Helpers/tree/master/Helpers/src/main/java/com/vimal/helpers/imageview">
 RoundImageView & TouchiImageView
 </a>
-</li>
-<li>
+</summary></details>
+
+
+<details><summary>
 <a href="https://github.com/VimalPatel14/Vimal-Helpers/tree/master/Helpers/src/main/java/com/vimal/helpers/videoview">
 VideoView
 </a>
-</li>
-<li>
+</summary></details>
+
+<details><summary>
 <a href="https://github.com/VimalPatel14/Vimal-Helpers/tree/master/Helpers/src/main/java/com/vimal/helpers/sharehelpers">
 Social Media Share
 </a>
-</li>
-	
+</summary></details>
+
 ## Contributing
 Feel free to contribute code to Utilities. You can do it by forking the repository via Github and sending pull request with changes.
 
