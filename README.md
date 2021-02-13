@@ -60,6 +60,12 @@ Social Media Share
 </a>
 </summary></details>
 
+<details><summary>
+<a href="https://github.com/VimalPatel14/Vimal-Helpers/blob/master/Helpers/src/main/java/com/vimal/helpers/ToastVimal.java">
+Customize Toast
+</a>
+</summary></details>
+
 ## Contributing
 Feel free to contribute code to Utilities. You can do it by forking the repository via Github and sending pull request with changes.
 
