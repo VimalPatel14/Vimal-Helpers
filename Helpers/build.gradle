@@ -45,4 +45,7 @@ dependencies {
     //App Update Check
     implementation 'com.squareup.okhttp3:okhttp:3.10.0'
     implementation 'org.jsoup:jsoup:1.11.3'
+
+    //Retrofit for downloading file
+    implementation 'com.squareup.retrofit2:retrofit:2.2.0'
 }

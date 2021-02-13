@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.vimal.helpers.sharehelpers;
+package com.vimal.helpers.helpers;
 
 import android.content.Context;
 import android.content.Intent;

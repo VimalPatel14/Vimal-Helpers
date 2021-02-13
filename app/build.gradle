@@ -41,4 +41,6 @@ dependencies {
 
     //Picasso Library
     implementation 'com.squareup.picasso:picasso:2.5.2'
+    //Permission Library
+    implementation 'gun0912.ted:tedpermission-rx2:2.2.2'
 }

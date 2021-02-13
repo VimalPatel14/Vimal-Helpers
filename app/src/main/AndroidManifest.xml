@@ -11,6 +11,7 @@
         android:theme="@style/Theme.AppHelper">
         <activity android:name=".video.VideoActivity"></activity>
         <activity android:name=".Image.ImageviewActivity"></activity>
+        <activity android:name=".Image.CircleImageviewActivity"></activity>
         <activity android:name=".AppUpdateActivity" />
         <activity android:name=".MainActivity">
             <intent-filter>

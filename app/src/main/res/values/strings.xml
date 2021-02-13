@@ -15,4 +15,6 @@
     <string name="btn_notification_google_play">Show notification (Google Play)</string>
 
     <string name="btn_check_google_play">Check From(Google Play)</string>
+    <string name="read_storage">Can we read your storage?</string>
+    <string name="storage_message">We need your permission to access your storage</string>
 </resources>

@@ -3,6 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:gravity="center"
     android:orientation="vertical"
     android:padding="@dimen/_30sdp"
@@ -30,6 +31,13 @@
         android:text="ImageView" />
 
     <Button
+        android:id="@+id/circleimageview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_10sdp"
+        android:text="Circle ImageView" />
+
+    <Button
         android:id="@+id/video"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -37,11 +45,13 @@
         android:text="Video View" />
 
     <Button
-        android:id="@+id/permission"
+        android:id="@+id/download"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="@dimen/_10sdp"
-        android:text="Permission" />
+        android:text="Download" />
+
+
 
 
 
