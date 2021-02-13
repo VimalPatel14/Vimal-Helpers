@@ -36,8 +36,14 @@ Custom Gallery
 </summary></details>
 
 <details><summary>
-<a href="https://github.com/VimalPatel14/Vimal-Helpers/tree/master/Helpers/src/main/java/com/vimal/helpers/imageview">
-RoundImageView & TouchiImageView
+<a href="https://github.com/VimalPatel14/Vimal-Helpers/blob/master/Helpers/src/main/java/com/vimal/helpers/imageview/RoundedImageView.java">
+RoundImageView & TouchImageView(ZoomImageview)
+</a>
+</summary></details>
+
+<details><summary>
+<a href="https://github.com/VimalPatel14/Vimal-Helpers/blob/master/Helpers/src/main/java/com/vimal/helpers/imageview/CircleImageView.java">
+Circle ImageView
 </a>
 </summary></details>
 
