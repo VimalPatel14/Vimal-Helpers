@@ -1,6 +1,6 @@
 # Vimal-Helpers
 
- [![](https://jitpack.io/v/jignesh8992/Utilities.svg)](https://jitpack.io/#jignesh8992/Utilities)
+ [![](https://jitpack.io/v/VimalPatel14/Vimal-Helpers.svg)](https://jitpack.io/#VimalPatel14/Vimal-Helpers)
  <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103">
  
  Vimal-Helpers functions to perform dynamic operations on Android.  
@@ -67,7 +67,7 @@ Customize Toast
 </summary></details>
 
 ## Contributing
-Feel free to contribute code to Utilities. You can do it by forking the repository via Github and sending pull request with changes.
+Feel free to contribute code to Vimal-Helpers. You can do it by forking the repository via Github and sending pull request with changes.
 
 When submitting code, please make every effort to follow existing conventions and style in order to keep the code as readable as possible. Also be sure that all tests are passing.
  
